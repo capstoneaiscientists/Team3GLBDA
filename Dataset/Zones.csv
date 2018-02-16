@@ -1,0 +1,158 @@
+Zone_data,Zones,Continent,Point,Shape,X,Y
+ Durotar,Durotar,Kalimdor,11,13,1167,975
+ Stonetalon Mountains,Stonetalon Mountains,Kalimdor,10,12,473,1294
+ Orgrimmar,Orgrimmar,Kalimdor,0,21,1219,1264
+ Wailing Caverns,The Barrens,Kalimdor,10,9,970,842
+" "" UnGoro Crater""",Un'Goro Crater,Kalimdor,10,3,944,422
+ Blackrock Depths,Burning Steppes,Eastern Kingdoms,0,10,1097,617
+ Azshara,Azshara,Kalimdor,11,16,1381,1333
+ Blackrock Mountain,Burning Steppes,Eastern Kingdoms,0,10,1097,617
+ Thousand Needles,Thousand Needles,Kalimdor,10,5,818,567
+ Desolace,Desolace,Kalimdor,11,8,473,1037
+ Swamp of Sorrows,Swamp of Sorrows,Eastern Kingdoms,0,2,1144,379
+ Burning Steppes,Burning Steppes,Eastern Kingdoms,0,10,1097,617
+ Blasted Lands,Blasted Lands,Eastern Kingdoms,0,0,1144,379
+ Scarlet Monastery,Tirisfal Glades,Eastern Kingdoms,0,23,846,1782
+ Redridge Mountains,Redridge Mountains,Eastern Kingdoms,0,3,935,600
+ Razorfen Downs,Thousand Needles,Kalimdor,10,5,818,567
+ Deadwind Pass,Deadwind Pass,Eastern Kingdoms,0,1,995,410
+ Dire Maul,Feralas,Kalimdor,11,7,778,744
+" "" ZulGurub""",Zul'Gurub,Eastern Kingdoms,0,5,990,195
+ Molten Core,Burning Steppes,Eastern Kingdoms,0,10,1097,617
+ Blackwing Lair,Burning Steppes,Eastern Kingdoms,0,10,1097,617
+ Alterac Valley,Hillsbrad Foothills,Eastern Kingdoms,0,18,956,1418
+" "" Ruins of AhnQiraj""",Silithus,Kalimdor,11,4,492,455
+ The Great Sea,The Great Sea,The Great Sea,#N/A,#N/A,#N/A,#N/A
+" "" Quelthalas""",Tirisfal Glades,Eastern Kingdoms,0,23,846,1782
+ Silvermoon City,Silvermoon City,Eastern Kingdoms,0,28,1290,2267
+ Shattrath City,Shattrath City,Outland,0,3,689,645
+ Nagrand,Nagrand,Outland,0,4,636,678
+ The Blood Furnace,Hellfire Peninsula,Outland,0,6,1045,574
+ Coilfang: The Slave Pens,Zangarmarsh,Outland,0,5,157,767
+ Azuremyst Isle,Azuremyst Isle,Kalimdor,11,22,105,1525
+ Old Hillsbrad Foothills,Tanaris,Kalimdor,10,2,922,560
+ Twisting Nether,Netherstorm,Outland,0,8,896,1423
+ The Shattered Halls,Hellfire Peninsula,Outland,0,6,1045,574
+ The Botanica,Tempest Keep,Outland,0,9,1391,1514
+" "" Magtheridons Lair""",Hellfire Peninsula,Outland,0,6,1045,574
+ Ruins of Lordaeron,Tirisfal Glades,Eastern Kingdoms,0,23,846,1782
+ The Underbog,Zangarmarsh,Outland,0,5,157,767
+" "" Magisters Terrace""",Isle of Quel'Danas,Eastern Kingdoms,0,34,1111,2472
+ The North Sea,Isle of Quel'Danas,Eastern Kingdoms,0,34,1111,2472
+ Plaguelands: The Scarlet Enclave,Eastern Plaguelands,Eastern Kingdoms,0,25,1185,1830
+ Dragonblight,Dragonblight,Northrend,0,3,1097,412
+ Sholazar Basin,Sholazar Basin,Northrend,0,9,350,982
+ Utgarde Keep,Howling Fjord,Northrend,0,0,1151,348
+ Dalaran,Crystalsong Forest,Northrend,0,4,841,770
+ The Violet Hold,Crystalsong Forest,Northrend,0,4,841,770
+" "" DrakTharon Keep""",Grizzly Hills,Northrend,0,1,1642,563
+ The Oculus,Borean Tundra,Northrend,0,10,618,502
+ Utgarde Pinnacle,Howling Fjord,Northrend,0,0,1151,348
+ The Obsidian Sanctum,Dragonblight,Northrend,0,3,1097,412
+  The Barrens,The Barrens,Kalimdor,10,9,970,842
+  Thunder Bluff,Mulgore,Kalimdor,11,10,597,885
+  Undercity,Undercity,Eastern Kingdoms,0,24,700,1575
+  Tanaris,Tanaris,Kalimdor,10,2,922,560
+  Felwood,Felwood,Kalimdor,11,19,941,1619
+  Winterspring,Winterspring,Kalimdor,10,17,894,1795
+  Scholomance,Western Plaguelands,Eastern Kingdoms,0,22,947,1790
+  Moonglade,Moonglade,Kalimdor,0,25,903,1799
+  Hillsbrad Foothills,Hillsbrad Foothills,Eastern Kingdoms,0,18,956,1418
+  Darkshore,Darkshore,Kalimdor,11,20,925,1728
+  Tirisfal Glades,Tirisfal Glades,Eastern Kingdoms,0,23,846,1782
+" "" ZulFarrak""",Tanaris,Kalimdor,10,2,922,560
+  Western Plaguelands,Western Plaguelands,Eastern Kingdoms,0,22,947,1790
+  Shadowfang Keep,Silverpine Forest,Eastern Kingdoms,0,19,518,1566
+  Hall of Legends,Orgrimmar,Kalimdor,0,21,1219,1264
+  Duskwood,Duskwood,Eastern Kingdoms,0,4,901,486
+  Razorfen Kraul,The Barrens,Kalimdor,10,9,970,842
+  Uldaman,Badlands,Eastern Kingdoms,0,12,1209,835
+  Teldrassil,Teldrassil,Kalimdor,10,24,625,1850
+" "" Onyxias Lair""",Dustwallow Marsh,Kalimdor,11,6,1001,681
+  Deadmines,Westfall,Eastern Kingdoms,0,9,733,369
+  Ironforge,Dun Morogh,Eastern Kingdoms,0,13,553,1022
+" "" AhnQiraj""",Ahn'Qiraj,Kalimdor,11,0,496,336
+  Nagrand Arena,Nagrand,Outland,0,4,636,678
+  Hellfire Peninsula,Hellfire Peninsula,Outland,0,6,1045,574
+  Zangarmarsh,Zangarmarsh,Outland,0,5,157,767
+  Hellfire Ramparts,Hellfire Peninsula,Outland,0,6,1045,574
+" "" Blades Edge Mountains""",Blade's Edge Mountains,Outland,0,7,344,1134
+  Shadowmoon Valley,Shadowmoon Valley,Outland,0,0,1189,501
+  The Steamvault,Zangarmarsh,Outland,0,5,157,767
+  Bloodmyst Isle,Bloodmyst Isle,Kalimdor,11,23,305,1779
+  Auchenai Crypts,Terokkar Forest,Outland,0,1,636,678
+  The Black Morass,Tanaris,Kalimdor,10,2,922,560
+  Auchindoun: Shadow Labyrinth,Auchindoun: Shadow Labyrinth,Outland,0,2,850,462
+  The Arcatraz,Tempest Keep,Outland,0,9,1391,1514
+  The Exodar,Azuremyst Isle,Kalimdor,0,22,313,1646
+  Serpentshrine Cavern,Zangarmarsh,Outland,0,5,157,767
+  The Mechanar,Tempest Keep,Outland,0,9,1391,1514
+" "" Isle of QuelDanas""",Isle of Quel'Danas,Eastern Kingdoms,0,34,1111,2472
+  The Ring of Valor,Orgrimmar,Kalimdor,0,21,1219,1264
+  Borean Tundra,Borean Tundra,Northrend,0,10,618,502
+  Howling Fjord,Howling Fjord,Northrend,0,0,1151,348
+  Crystalsong Forest,Crystalsong Forest,Northrend,0,4,841,770
+  Azjol-Nerub,Dragonblight,Northrend,0,3,1097,412
+" "" Ahnkahet: The Old Kingdom""",Dragonblight,Northrend,0,3,1097,412
+  Wintergrasp,Wintergrasp,Northrend,0,8,596,811
+  Gundrak,Zul'Drak,Northrend,0,2,1583,742
+  Halls of Lightning,The Storm Peaks,Northrend,0,5,1461,1025
+  Vault of Archavon,Wintergrasp,Northrend,0,8,596,811
+  Silverpine Forest,Silverpine Forest,Eastern Kingdoms,0,19,518,1566
+  Dustwallow Marsh,Dustwallow Marsh,Kalimdor,11,6,1001,681
+  Ashenvale,Ashenvale,Kalimdor,11,15,775,1249
+  Maraudon,Desolace,Kalimdor,11,8,473,1037
+" "" The Temple of AtalHakkar""",Swamp of Sorrows,Eastern Kingdoms,0,2,1144,379
+  Eastern Plaguelands,Eastern Plaguelands,Eastern Kingdoms,0,25,1185,1830
+  Arathi Basin,Arathi Highlands,Eastern Kingdoms,0,17,956,1418
+  Mulgore,Mulgore,Kalimdor,11,10,597,885
+  Blackfathom Deeps,Ashenvale,Kalimdor,11,15,775,1249
+  Alterac Mountains,Hillsbrad Foothills,Eastern Kingdoms,0,18,956,1418
+  Searing Gorge,Searing Gorge,Eastern Kingdoms,0,11,968,860
+  Feralas,Feralas,Kalimdor,11,7,778,744
+  Stratholme,Eastern Plaguelands,Eastern Kingdoms,0,25,1185,1830
+  Badlands,Badlands,Eastern Kingdoms,0,12,1209,835
+  Gnomeregan,Dun Morogh,Eastern Kingdoms,0,13,553,1022
+  Loch Modan,Loch Modan,Eastern Kingdoms,0,14,1208,872
+  Ragefire Chasm,Orgrimmar,Kalimdor,0,21,1219,1264
+  Dun Morogh,Dun Morogh,Eastern Kingdoms,0,13,553,1022
+  Westfall,Westfall,Eastern Kingdoms,0,9,733,369
+  Warsong Gulch,The Barrens,Kalimdor,10,9,970,842
+" "" Gates of AhnQiraj""",Ahn'Qiraj,Kalimdor,11,0,496,336
+  Hyjal,Mount Hyjal,Kalimdor,11,18,1128,1551
+  Naxxramas,Dragonblight,Northrend,0,3,1097,412
+" "" Blades Edge Arena""",Blade's Edge Mountains,Outland,0,7,344,1134
+  Ghostlands,Ghostlands,Eastern Kingdoms,0,26,1065,2036
+  Terokkar Forest,Terokkar Forest,Outland,0,1,636,678
+  Eversong Woods,Eversong Woods,Eastern Kingdoms,0,27,1335,2164
+  Netherstorm,Netherstorm,Outland,0,8,896,1423
+  Eye of the Storm,Netherstorm,Outland,0,8,896,1423
+  Mana-Tombs,Terokkar Forest,Outland,0,1,636,678
+  Sethekk Halls,Terokkar Forest,Outland,0,1,636,678
+  The Veiled Sea,Azuremyst Isle,Kalimdor,11,22,105,1525
+" "" Gruuls Lair""",Blade's Edge Mountains,Outland,0,7,344,1134
+  The Forbidding Sea,Eversong Woods,Eastern Kingdoms,0,27,1335,2164
+  Tempest Keep,Tempest Keep,Outland,0,9,1391,1514
+  Black Temple,Shadowmoon Valley,Outland,0,0,1189,501
+  Sunwell Plateau,Isle of Quel'Danas,Eastern Kingdoms,0,34,1111,2472
+  The Nexus,Borean Tundra,Northrend,0,10,618,502
+  The Frozen Sea,Dragonblight,Northrend,0,3,1097,412
+  The Storm Peaks,The Storm Peaks,Northrend,0,5,1461,1025
+" "" ZulDrak""",Zul'Drak,Northrend,0,2,1583,742
+  Strand of the Ancients,Dragonblight,Northrend,0,3,1097,412
+  The Culling of Stratholme,Tanaris,Kalimdor,10,2,922,560
+  Halls of Stone,The Storm Peaks,Northrend,0,5,1461,1025
+  The Eye of Eternity,Borean Tundra,Northrend,0,10,618,502
+  Stranglethorn Vale,Stranglethorn Vale,Eastern Kingdoms,0,6,856,373
+  The Hinterlands,The Hinterlands,Eastern Kingdoms,0,21,876,1459
+  Blackrock Spire,Burning Steppes,Eastern Kingdoms,0,10,1097,617
+  Arathi Highlands,Arathi Highlands,Eastern Kingdoms,0,17,956,1418
+  Wetlands,Wetlands,Eastern Kingdoms,0,16,934,1224
+  Silithus,Silithus,Kalimdor,11,4,492,455
+  Elwynn Forest,Elwynn Forest,Eastern Kingdoms,0,7,885,610
+  Stormwind City,Stormwind City,Eastern Kingdoms,0,8,613,690
+  Deeprun Tram,Searing Gorge,Eastern Kingdoms,0,11,968,860
+  GM Island,Teldrassil,Kalimdor,10,24,625,1850
+  Karazhan,Deadwind Pass,Eastern Kingdoms,0,1,995,410
+  Grizzly Hills,Grizzly Hills,Northrend,0,1,1642,563
+  Icecrown,Icecrown,Northrend,0,7,814,1226
